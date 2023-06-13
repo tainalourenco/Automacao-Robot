@@ -1,6 +1,4 @@
-# Automacao-Robot
-
-# Projeto dos principais cadastros do FIDC CUSTODIA - Sistema Legado.
+# Automacao-Robot Framework - projeto dos principais cadastros do FIDC CUSTODIA - Sistema Legado.
 
 Para funcionamento do projeto, necessário está instalado e configurado os seguintes programas:
 •	Python
