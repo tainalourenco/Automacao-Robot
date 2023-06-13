@@ -231,8 +231,6 @@ Condicao de test: Não permitir cadastrar fundo sem preenchimento dos dados obri
     Submeter formulario de adicao do fundo
     Conferir mensagem de fundo não cadastrado com erro "O campo Código ISIN Aba Dados Cadastrais é obrigatório"  
 
-
-# Condição de teste:
  
 
     
